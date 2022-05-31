@@ -129,7 +129,10 @@ footer.php
 ![foto](foto/10.PNG)
 
 # static
+Untuk menyimpan file yg diperlukan, seperti css, js, gambar
 
-![foto](foto/7.PNG)
+style.css
+
+![foto](foto/.PNG)
 
 ![foto](foto/7.PNG)
