@@ -126,8 +126,9 @@ main.php
 
 footer.php
 
-![foto](foto/7.PNG)
+![foto](foto/10.PNG)
 
+# static
 
 ![foto](foto/7.PNG)
 
