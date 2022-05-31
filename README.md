@@ -59,9 +59,34 @@ media="screen" />
 # 5. Output
 ![foto](foto/1.PNG)
 
-![foto](foto/.PNG)
+
+![foto](foto/2.PNG)
 
 
 ## Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+berikut struktur direktori yang saya buat
+```php
+lab8_php_database
+├── config
+│   ├── hapus.php
+│   ├── koneksi.php
+│   ├── tambah.php
+│   └── ubah.php
+├── layouts
+│   ├── footer.php
+│   ├── head-static.php
+│   ├── header.php
+│   ├── main.php
+│   ├── tambah.php
+│   └── ubah.php
+├── static
+│   ├── css
+│   │   └── style.css
+│   └── img
+├── index.php
+├── tambah.php
+└── ubah.php
+```
