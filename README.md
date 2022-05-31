@@ -67,7 +67,7 @@ media="screen" />
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-berikut struktur direktori yang saya buat
+# berikut struktur direktori yang saya buat
 ```php
 lab8_php_database
 ├── config
@@ -90,3 +90,8 @@ lab8_php_database
 ├── tambah.php
 └── ubah.php
 ```
+# config
+dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi
+
+koneksi.php
+![foto](foto/3.PNG)
