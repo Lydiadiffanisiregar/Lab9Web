@@ -103,7 +103,7 @@ tambah.php
 
 ubah.php
 
-![foto](foto/3.PNG)
+![foto](foto/5.PNG)
 
 hapus.php
 
