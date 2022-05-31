@@ -115,3 +115,17 @@ Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
 head-static.php
 
 ![foto](foto/7.PNG)
+
+header.php
+
+![foto](foto/8.PNG)
+
+
+
+![foto](foto/7.PNG)
+
+![foto](foto/7.PNG)
+
+![foto](foto/7.PNG)
+
+![foto](foto/7.PNG)
