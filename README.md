@@ -1,4 +1,13 @@
-Langkah langkah praktikum 8
+## Praktikum 9: PHP Modular
+Repository ini dibuat untuk memenuhi tugas Pemrograman Web
+| Nama      | Lydia Diffani Siregar |
+| ----------- | ----------- |
+| NIM     | 312010498       |
+| Kelas   | TI.20.A.1        |
+
+
+## Langkah langkah praktikum 9 "PHP Modular"
+Langkah langkah praktikum 9
 # 1. Buat file baru dengan nama header.php
 ```php
 <!DOCTYPE html>
