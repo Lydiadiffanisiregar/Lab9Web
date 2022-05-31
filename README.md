@@ -110,3 +110,6 @@ hapus.php
 ![foto](foto/3.PNG)
 
 # layouts
+Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
+
+head-static.php
