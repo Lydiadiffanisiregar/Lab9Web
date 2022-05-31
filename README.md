@@ -113,3 +113,5 @@ hapus.php
 Untuk menyimpan tampilan utama pada website, dan dibagi pada beberapa file
 
 head-static.php
+
+![foto](foto/7.PNG)
