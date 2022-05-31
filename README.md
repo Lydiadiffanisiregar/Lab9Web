@@ -145,6 +145,6 @@ tambah.php
 ![foto](foto/13.PNG)
 
 ubah.php
-![foto](foto/12.PNG)
+![foto](foto/14.PNG)
 
 Output
