@@ -56,6 +56,11 @@ media="screen" />
 </div>
 <?php require('footer.php'); ?>
 ```
+# 5. Output
+![foto](foto/1.PNG)
+
+![foto](foto/.PNG)
+
 
 ## Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
