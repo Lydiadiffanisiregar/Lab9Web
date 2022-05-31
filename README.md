@@ -154,6 +154,6 @@ ubah.php
 
 ![foto](foto/15.PNG)
 
-![foto](foto/14.PNG)
+![foto](foto/16.PNG)
 
 ![foto](foto/14.PNG)
