@@ -133,6 +133,6 @@ Untuk menyimpan file yg diperlukan, seperti css, js, gambar
 
 style.css
 
-![foto](foto/.PNG)
+![foto](foto/11.PNG)
 
 ![foto](foto/7.PNG)
