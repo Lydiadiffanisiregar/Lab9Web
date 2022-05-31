@@ -140,3 +140,11 @@ File utama dan berfungsi sebagai wadah untuk memanggil sub-file di beberapa dire
 
 index.php
 ![foto](foto/12.PNG)
+
+tambah.php
+![foto](foto/12.PNG)
+
+ubah.php
+![foto](foto/12.PNG)
+
+Output
