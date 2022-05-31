@@ -99,7 +99,7 @@ koneksi.php
 
 tambah.php
 
-![foto](foto/3.PNG)
+![foto](foto/4.PNG)
 
 ubah.php
 
