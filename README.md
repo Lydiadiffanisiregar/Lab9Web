@@ -120,11 +120,14 @@ header.php
 
 ![foto](foto/8.PNG)
 
+main.php
 
+![foto](foto/9.PNG)
+
+footer.php
 
 ![foto](foto/7.PNG)
 
-![foto](foto/7.PNG)
 
 ![foto](foto/7.PNG)
 
