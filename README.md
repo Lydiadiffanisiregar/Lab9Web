@@ -103,4 +103,5 @@ tambah.php
 
 ubah.php
 
+![foto](foto/3.PNG)
 
